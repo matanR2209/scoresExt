@@ -1,0 +1,101 @@
+{
+  "team": {
+    "name": "Team A",
+    "lineup": {
+      "starters": [
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        }
+      ],
+      "bench": [
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        },
+        {
+          "playerName": "",
+          "mins": "",
+          "playerNumber": "",
+          "appearances": ""
+        }
+      ]
+    }
+  }
+}
